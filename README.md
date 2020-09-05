@@ -8,5 +8,5 @@
 $ python main.py
 ```
 
-# This version is only the testing version
+# This version is just the testing version
 > [The full version with both frond end and back end.](https://github.com/PQbros/halligalli)
