@@ -9,4 +9,4 @@ $ python main.py
 ```
 
 # This version is only the testing version
-> [The full version of both frond end and back end.](https://github.com/PQbros/halligalli)
+> [The full version with both frond end and back end.](https://github.com/PQbros/halligalli)
