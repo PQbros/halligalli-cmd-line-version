@@ -1,7 +1,5 @@
 # halligalli-cmd-line-version
 ## A halli galli game playing in command line
----
-
 
 ```shell
 # run the game
